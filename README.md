@@ -19,6 +19,6 @@ The app will then open and you can use the buttons to perform calculations.
 # Parsing the code to Apk using Buildozer  
 Reference 👉 https://cutt.ly/jOzOojn to access Google Collab for parsing
 
-Follow the instructions in this video to use buildozer 👉 https://youtu.be/qfSJJVjp6BY
+Follow the instructions in this video to use buildozer 👉 https://www.youtube.com/watch?v=qfSJJVjp6BY&t=2052s
 # Notes
 Please note that this code was developed following the instructions provided in a Tech2etc video tutorial available on YouTube (https://youtu.be/qfSJJVjp6BY).
